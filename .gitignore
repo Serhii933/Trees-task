@@ -1,0 +1,8 @@
+.idea/
+TreeNode.iml
+BinaryTree.iml
+TreesTask.iml
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
